@@ -1,11 +1,18 @@
 {
     "version": "1.0.0",
-    "id": "com_axolotlmaid_FontAwesomeIcons",
-    "icons": "icons/",
-    "name": "Font Awesome Icons",
     "thumbnail": "store/Thumbnail.png",
+    "id": "com_axolotlmaid_FontAwesomeIcons",
+    "name": "Font Awesome Icons",
     "descriptions": {
         "en_US": "Unofficial Font Awesome Icons designed by Fonticons, Inc."
     },
-    "description": "Unofficial Font Awesome Icons designed by Fonticons, Inc."
+    "short-descriptions": {
+        "en_US": "Font Awesome Icons"
+    },
+    "tags": [""],
+    "minimum-app-version": "1.0.0",
+    "app-version": "1.4.11-beta",
+    
+    "description": "Unofficial Font Awesome Icons designed by Fonticons, Inc.",
+    "short-description": "Font Awesome Icons"
 }
