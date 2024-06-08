@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "id": "com_axolotlmaid_FontAwesomeIcons",
+    "icons": "icons/",
+    "name": "Font Awesome Icons",
+    "thumbnail": "store/Thumbnail.png",
+    "descriptions": {
+        "en_US": "Unofficial Font Awesome Icons designed by Fonticons, Inc."
+    },
+    "description": "Unofficial Font Awesome Icons designed by Fonticons, Inc."
+}
